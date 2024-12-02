@@ -58,3 +58,4 @@ The Daily Challenge/Productivity App is designed to enhance user productivity an
 
 5. **Streak Reset**:
    - Streaks reset automatically if daily tasks are not completed.
+   - ----
